@@ -166,7 +166,7 @@ publications:
         authors: Heo, G., Kang, Y., Song, M., and Lee, J. 
         conference: BMC Bioinformatics, 18(Suppl. 7):251, pp. 45- 57, June 2017 (SCIE)
         
-      - title: DSP- CC: I/ O Efficient Parallel Computation of Connected Components in Billion- scale Networks
+      - title: DSP-CC: IO Efficient Parallel Computation of Connected Components in Billion-scale Networks
 #       link: "#"
         authors: Kim, M., Lee, S., Han, W., Park, H., and Lee, J.
         conference: IEEE Transactions on Knowledge and Data Engineering, Vol. 27, No. 11, pp. 2658- 2671, April 2015 (SCI)
