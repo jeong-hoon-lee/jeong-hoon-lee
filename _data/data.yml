@@ -5,7 +5,7 @@
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-#    publications: True # set to False if you want education in main section instead of in sidebar
+    publications: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jeong-hoon Lee
@@ -150,7 +150,7 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
 
-    International Journals:
+#    International Journals:
       - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
 #       link: "#"
         authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
@@ -221,7 +221,7 @@ publications:
         authors: Lee, J., Kasperovics, R., Han, W., Lee., J., Kim, M., and Cho, H.
         conference: International Journal of Data Mining and Bioinformatics, ISSN: 1748- 5673, Vol. 11, No. 2, pp. 205- 222, 2015 (SCIE)
 
-    International Conference Proceedings:
+#    International Conference Proceedings:
     
       - title: TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data
 #       link: "#"
