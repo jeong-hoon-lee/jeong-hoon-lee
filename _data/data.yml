@@ -142,7 +142,7 @@ professional experiences:
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: International Journals
+#    title: International Journals
 #     intro: 
           
 #    intro: |
@@ -221,7 +221,7 @@ publications:
         authors: Lee, J., Kasperovics, R., Han, W., Lee., J., Kim, M., and Cho, H.
         conference: International Journal of Data Mining and Bioinformatics, ISSN: 1748- 5673, Vol. 11, No. 2, pp. 205- 222, 2015 (SCIE)
 
-    title: International Conference Proceedings:
+#    title: International Conference Proceedings:
     
       - title: TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data
 #       link: "#"
