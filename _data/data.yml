@@ -155,7 +155,8 @@ publications:
 #        conference: Genes, 10, 159, 2019 (SCIE)
 
 #    intro: 
-    intro: 
+    intro: |
+    
       - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
         authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
         conference: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
