@@ -154,13 +154,13 @@ publications:
 #        authors: Song, M., Baek, S., Heo, G., and Lee, J.  
 #        conference: Genes, 10, 159, 2019 (SCIE)
 
-    intro: 
+    intro: |
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
 
-      - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
+      - Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
         authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
         conference: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
 
