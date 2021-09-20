@@ -156,7 +156,8 @@ publications:
 #        conference: Genes, 10, 159, 2019 (SCIE)
 
 #    intro: 
-    intro: |       
+    intro: | 
+    journal: International Journals
       - Heo, G., Xie, Q., Min, S., and Lee, J., "Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease," BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
       - Song, M., Baek, S., Heo, G., and Lee, J., "Inferring Drug Protein-Side Effect Relationships from Biomedical Text," Genes, 10, 159, 2019 (SCIE)
       - Heo, G., Kang, Y., Song, M., and Lee, J., "Analyzing the Field of Bioinformatics with the Multi- faceted Topic Modeling Technique," BMC Bioinformatics, 18(Suppl. 7):251, pp. 45-57, June 2017 (SCIE)
@@ -171,6 +172,7 @@ publications:
       - Lee, J., Whang, K., Lim, H., Lee, B., and Heo, J., "Progressive Processing of Continuous Range Queries in Hierarchical Wireless Sensor Networks," IEICE Transactions on Information and Systems, Vol. E-93D, No.7, pp. 1832-1847, July 2010 (SCIE)
       - Nguyen, T., Heo, J., Lee, J., Kim, Y., and Whang, K., "Query Expansion Using Augmented Terms in an Extended Boolean Model," Journal of Computing Science and Engineering, Vol.2, No.1, pp. 26-43, March 2008
       - Lee, J., Kasperovics, R., Han, W., Lee., J., Kim, M., and Cho, H., "An Effective Algorithm for Updating Regular Expression Indexes in RDF Databases," International Journal of Data Mining and Bioinformatics, Vol. 11, No. 2, pp. 205-222, 2015 (SCIE)
+    confernece: International Conference Proceedings  
       - Kim, K., Seo, I., Han, W., Lee, J., Hong, S., Chafi, H., Shin, H., and Jeong, G., "TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data," In Proceedings of 44th Int’l Conf. on Management of Data, ACM SIGMOD, Huston, USA, June 2018
       - Kim, H., Lee, J., Bhowmick, S., Han, W., Lee, J., Ko, S., and Jarrah, M., "DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine," In Proc. 42nd Int'l conf. on Management of Data, ACM SIGMOD, pp. 1231-1245, San Francisco, USA, June 2016
       - Kim, M., Lee, S., Han, W., Park, H., and Lee, J., "DSP-CC: I/ O Efficient Parallel Computation of Connected Components in Billion-scale Networks (Extended Abstract)," In Proceedings of 32nd Int'l Conference on Data Engineering (ICDE 2016), pp. 1504-1505, Helsinki, Filand, 2016 (invited to TKDE track of ICDE 2016)
