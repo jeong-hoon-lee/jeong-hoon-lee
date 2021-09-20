@@ -174,12 +174,12 @@ publications:
         
         
         
-      - [1]: Kim, K., Seo, I., Han, W., Lee, J., Hong, S., Chafi, H., Shin, H., and Jeong, G., "TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data," In Proc. 44th Int’l Conf. on Management of Data, ACM SIGMOD, Huston, USA, June 2018
-      - [2]: Kim, H., Lee, J., Bhowmick, S., Han, W., Lee, J., Ko, S., and Jarrah, M., "DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine," In Proc. 42nd Int'l conf. on Management of Data, ACM SIGMOD, pp. 1231- 1245, San Francisco, USA, June 2016
-      - [3]: Kim, M., Lee, S., Han, W., Park, H., and Lee, J., "DSP-CC: I/ O Efficient Parallel Computation of Connected Components in Billion- scale Networks (Extended Abstract)," In Proc. 32nd Int'l Conf. on Data Engineering (ICDE 2016), pp. 1504- 1505, Helsinki, Filand, 2016 (invited to TKDE track of ICDE 2016)
-      - [4]: Han, W., Lee, J., and Lee, J., "TurboISO: Towards UltraFast and Robust Subgraph Isomorphism Search in Large Graph Databases," In Proc. 39th International Management of Data, ACM SIGMOD, pp. 337- 348, New York, USA, June 2013
-      - [5]: Han, W., Lee, S., Park, K., Lee, J., Kim, M., Kim, J., and Yu, H., "TurboGraph: A Fast Parallel Graph Engine Handling Billion- scale Graphs in a Single PC,"In Proc. of the 19th ACM SIGKDD Int'l Conf. on Knowledge, Discovery, and Data Mining, KDD'12, pp. 77- 85, Chicago, USA, August 11- 14, 2013
-      - [6]: Han, W., Lee, J., Kasperovics, R., and Lee, J. "An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases," In Proc. 39th In Int’l Conf. on Very Large Data Bases/ Proceedings of the VLDB Endowment(PVLDB), Vol. 6, No. 2, pp. 133- 144, Dec. 2012 
+      - [15]: Kim, K., Seo, I., Han, W., Lee, J., Hong, S., Chafi, H., Shin, H., and Jeong, G., "TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data," In Proc. 44th Int’l Conf. on Management of Data, ACM SIGMOD, Huston, USA, June 2018
+      - [16]: Kim, H., Lee, J., Bhowmick, S., Han, W., Lee, J., Ko, S., and Jarrah, M., "DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine," In Proc. 42nd Int'l conf. on Management of Data, ACM SIGMOD, pp. 1231- 1245, San Francisco, USA, June 2016
+      - [17]: Kim, M., Lee, S., Han, W., Park, H., and Lee, J., "DSP-CC: I/ O Efficient Parallel Computation of Connected Components in Billion- scale Networks (Extended Abstract)," In Proc. 32nd Int'l Conf. on Data Engineering (ICDE 2016), pp. 1504- 1505, Helsinki, Filand, 2016 (invited to TKDE track of ICDE 2016)
+      - [18]: Han, W., Lee, J., and Lee, J., "TurboISO: Towards UltraFast and Robust Subgraph Isomorphism Search in Large Graph Databases," In Proc. 39th International Management of Data, ACM SIGMOD, pp. 337- 348, New York, USA, June 2013
+      - [19]: Han, W., Lee, S., Park, K., Lee, J., Kim, M., Kim, J., and Yu, H., "TurboGraph: A Fast Parallel Graph Engine Handling Billion- scale Graphs in a Single PC,"In Proc. of the 19th ACM SIGKDD Int'l Conf. on Knowledge, Discovery, and Data Mining, KDD'12, pp. 77- 85, Chicago, USA, August 11- 14, 2013
+      - [20]: Han, W., Lee, J., Kasperovics, R., and Lee, J. "An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases," In Proc. 39th In Int’l Conf. on Very Large Data Bases/ Proceedings of the VLDB Endowment(PVLDB), Vol. 6, No. 2, pp. 133- 144, Dec. 2012 
         
 # skills:
 #     title: Skills &amp; Proficiency
