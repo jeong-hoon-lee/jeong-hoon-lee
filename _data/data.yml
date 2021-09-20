@@ -88,7 +88,8 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-professional experiences:
+
+experiences:
     - role: Research Professor in the Dept. of Convergence IT Engineering
       time: 2015 ~ present
       company: Pohang University of Science of Technology (POSTECH)
