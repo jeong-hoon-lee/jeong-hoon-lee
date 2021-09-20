@@ -157,8 +157,8 @@ publications:
 #    intro: 
     intro: |
     
-      - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
-        authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
+      - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease\n
+        authors: Heo, G., Xie, Q., Min, S., and Lee, J.\n 
         Journal: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
     
       - title: Inferring Drug Protein-Side Effect Relationships from Biomedical Text
