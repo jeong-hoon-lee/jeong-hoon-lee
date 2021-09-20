@@ -145,18 +145,20 @@ professional experiences:
 
 publications:
     title: Publications
-    intro: |
-Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease          
+    items:
+      - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
+        authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
+        conference: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
+#    intro: |
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
 
 #    International Journals:
-      - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
-        link: "#"
-        authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
-        conference: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
+#      - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
+#        authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
+#        conference: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
 
 #      - title: Inferring Drug Protein-Side Effect Relationships from Biomedical Text
 #       link: "#"
