@@ -155,15 +155,11 @@ publications:
 #        conference: Genes, 10, 159, 2019 (SCIE)
 
 #    intro: 
-    intro: International Journals
-    
-
+    intro: 
       - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
         authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
         conference: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
-        
-    intro: International Conference Proceedings
-  
+    
       - title: Inferring Drug Protein-Side Effect Relationships from Biomedical Text
         authors: Song, M., Baek, S., Heo, G., and Lee, J.  
         conference: Genes, 10, 159, 2019 (SCIE)
