@@ -159,101 +159,85 @@ publications:
     
       - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
         authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
-        conference: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
+        Journal: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
     
       - title: Inferring Drug Protein-Side Effect Relationships from Biomedical Text
         authors: Song, M., Baek, S., Heo, G., and Lee, J.  
-        conference: Genes, 10, 159, 2019 (SCIE)
+        Journal: Genes, 10, 159, 2019 (SCIE)
         
-#      - title: Analyzing the Field of Bioinformatics with the Multi- faceted Topic Modeling Technique
-#       link: "#"
-#        authors: Heo, G., Kang, Y., Song, M., and Lee, J. 
-#        conference: BMC Bioinformatics, 18(Suppl. 7):251, pp. 45- 57, June 2017 (SCIE)
+      - title: Analyzing the Field of Bioinformatics with the Multi- faceted Topic Modeling Technique
+        authors: Heo, G., Kang, Y., Song, M., and Lee, J. 
+        Journal: BMC Bioinformatics, 18(Suppl. 7):251, pp. 45- 57, June 2017 (SCIE)
         
-#      - title: DSP-CC: IO Efficient Parallel Computation of Connected Components in Billion-scale Networks
-#       link: "#"
-#        authors: Kim, M., Lee, S., Han, W., Park, H., and Lee, J.
-#        conference: IEEE Transactions on Knowledge and Data Engineering, Vol. 27, No. 11, pp. 2658- 2671, April 2015 (SCI)
+      - title: DSP-CC: IO Efficient Parallel Computation of Connected Components in Billion-scale Networks
+        authors: Kim, M., Lee, S., Han, W., Park, H., and Lee, J.
+        Journal: IEEE Transactions on Knowledge and Data Engineering, Vol. 27, No. 11, pp. 2658- 2671, April 2015 (SCI)
         
-#      - title: An Efficient Algorithm for Updating Regular Expression Indexes in RDF Databases
-#       link: "#"
-#        authors: Lee, J., Kasperovics, R., Han, W., Kim, M., Lee, J., and Cho, H.
-#        conference: Int'l Journal of Data Mining and Bioinformatics, Vol. 11, No. 2, pp. 205- 222, 2015 (SCIE)
+      - title: An Efficient Algorithm for Updating Regular Expression Indexes in RDF Databases
+        authors: Lee, J., Kasperovics, R., Han, W., Kim, M., Lee, J., and Cho, H.
+        Journal: Int'l Journal of Data Mining and Bioinformatics, Vol. 11, No. 2, pp. 205- 222, 2015 (SCIE)
         
-#      - title: Design and Implementation of Spatial Operators and Energy- efficient Query Processing Strategy in Wireless Sensor Network Database System
-#       link: "#"
-#        authors: Lim, C., Lee, J., Park, M., and Hyun, S. 
-#        conference: International Journal of Distributed Sensor Networks, Article 509471, pp.1 – 17, 2014 (SCIE)
+      - title: Design and Implementation of Spatial Operators and Energy- efficient Query Processing Strategy in Wireless Sensor Network Database System
+        authors: Lim, C., Lee, J., Park, M., and Hyun, S. 
+        Journal: International Journal of Distributed Sensor Networks, Article 509471, pp.1 – 17, 2014 (SCIE)
         
-#      - title: Efficient duality-based subsequence matching on time- series data in green computing
-#       link: "#"
-#        authors: Lim, S., Nasridinov, A., Lee, J., and Park, Y.
-#        conference: The Journal of Supercomputing. Vol. 69, No. 3, pp. 1039- 1053, 2014 (SCIE)
+      - title: Efficient duality-based subsequence matching on time- series data in green computing
+        authors: Lim, S., Nasridinov, A., Lee, J., and Park, Y.
+        Journal: The Journal of Supercomputing. Vol. 69, No. 3, pp. 1039- 1053, 2014 (SCIE)
         
-#      - title: Toward Intelligent In-vehicle Sensor Database Management Systems
-#       link: "#"
-#        authors: Lee, J., Han, W., An, K., and Sung, K.
-#        conference: Multimedia Tools and Applications, August 2013 (SCIE)
+      - title: Toward Intelligent In-vehicle Sensor Database Management Systems
+        authors: Lee, J., Han, W., An, K., and Sung, K.
+        Journal: Multimedia Tools and Applications, August 2013 (SCIE)
         
-#      - title: Leveraging spatial join for robust tuple extraction from web pages
-#       link: "#"
-#        authors: Han, W., Kwak, W., Yu, H., Lee, J., and Kim, M.
-#        conference: Information Sciences, Vol. 261, pp.132- 148, March 2014 (SCI)
+      - title: Leveraging spatial join for robust tuple extraction from web pages
+        authors: Han, W., Kwak, W., Yu, H., Lee, J., and Kim, M.
+        Journal: Information Sciences, Vol. 261, pp.132- 148, March 2014 (SCI)
         
-#      - title: Partitioned-Tree Nested Loop Join: An Efficient Join for Spatial-Temporal Interval Join
-#       link: "#"
-#        authors: Lee, J., Han, W., Kim, J., and Lee, J.
-#        conference: IEICE Transactions on Information and Systems, Vol. E96- D, No. 5, pp. 1206- 1210, May 2013 (SCIE)
+      - title: Partitioned-Tree Nested Loop Join: An Efficient Join for Spatial-Temporal Interval Join
+        authors: Lee, J., Han, W., Kim, J., and Lee, J.
+        Journal: IEICE Transactions on Information and Systems, Vol. E96- D, No. 5, pp. 1206- 1210, May 2013 (SCIE)
         
-#      - title: Processing SPARQL Queries with Regular Expressions in RDF Databases
-#       link: "#"
-#        authors: Lee, J., Pham, M., Lee, J., Han, W., Cho, H., Yu. H., and Lee, J.
-#        conference: BMC BioInformatics, Vol.12, Suppl 2:S6, March 2011 (SCIE)
+      - title: Processing SPARQL Queries with Regular Expressions in RDF Databases
+        authors: Lee, J., Pham, M., Lee, J., Han, W., Cho, H., Yu. H., and Lee, J.
+        Journal: BMC BioInformatics, Vol.12, Suppl 2:S6, March 2011 (SCIE)
         
-#      - title: Progressive Processing of Continuous Range Queries in Hierarchical Wireless Sensor Networks
-#       link: "#"
-#        authors: Lee, J., Whang, K., Lim, H., Lee, B., and Heo, J.
-#        conference: IEICE Trans. on Information and Systems, Vol. E- 93.D, No. 7, pp. 1832- 1847, July 2010 (SCIE)
+      - title: Progressive Processing of Continuous Range Queries in Hierarchical Wireless Sensor Networks
+        authors: Lee, J., Whang, K., Lim, H., Lee, B., and Heo, J.
+        Journal: IEICE Trans. on Information and Systems, Vol. E- 93.D, No. 7, pp. 1832- 1847, July 2010 (SCIE)
         
-#      - title: Query Expansion Using Augmented Terms in an Extended Boolean Model
-#       link: "#"
-#        authors: Nguyen, T., Heo, J., Lee, J., Kim, Y., and Whang, K.
-#        conference: Journal of Computing Science and Engineering, Vol.2, No.1, pp. 26- 43, March 2008
+      - title: Query Expansion Using Augmented Terms in an Extended Boolean Model
+        authors: Nguyen, T., Heo, J., Lee, J., Kim, Y., and Whang, K.
+        Journal: Journal of Computing Science and Engineering, Vol.2, No.1, pp. 26- 43, March 2008
         
-#      - title: An Effective Algorithm for Updating Regular Expression Indexes in RDF Databases
-#       link: "#"
-#        authors: Lee, J., Kasperovics, R., Han, W., Lee., J., Kim, M., and Cho, H.
-#        conference: International Journal of Data Mining and Bioinformatics, ISSN: 1748- 5673, Vol. 11, No. 2, pp. 205- 222, 2015 (SCIE)
+      - title: An Effective Algorithm for Updating Regular Expression Indexes in RDF Databases
+        authors: Lee, J., Kasperovics, R., Han, W., Lee., J., Kim, M., and Cho, H.
+        Journal: International Journal of Data Mining and Bioinformatics, ISSN: 1748- 5673, Vol. 11, No. 2, pp. 205- 222, 2015 (SCIE)
 
-#      - title: TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data
-#       link: "#"
-#        authors: Kim, K., Seo, I., Han, W., Lee, J., Hong, S., Chafi, H., Shin, H., and Jeong, G.
-#        conference: In Proc. 44th Int’l Conf. on Management of Data, ACM SIGMOD, Huston, USA, June 2018
+
+
+      - title: TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data
+        authors: Kim, K., Seo, I., Han, W., Lee, J., Hong, S., Chafi, H., Shin, H., and Jeong, G.
+        conference: In Proc. 44th Int’l Conf. on Management of Data, ACM SIGMOD, Huston, USA, June 2018
         
-#      - title: DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine
-#       link: "#"
-#        authors: Kim, H., Lee, J., Bhowmick, S., Han, W., Lee, J., Ko, S., and Jarrah, M.
-#        conference: In Proc. 42nd Int'l conf. on Management of Data, ACM SIGMOD, pp. 1231- 1245, San Francisco, USA, June 2016
+      - title: DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine
+        authors: Kim, H., Lee, J., Bhowmick, S., Han, W., Lee, J., Ko, S., and Jarrah, M.
+        conference: In Proc. 42nd Int'l conf. on Management of Data, ACM SIGMOD, pp. 1231- 1245, San Francisco, USA, June 2016
 
-#      - title: DSP-CC: I/ O Efficient Parallel Computation of Connected Components in Billion- scale Networks (Extended Abstract)
-#       link: "#"
-#        authors: Kim, M., Lee, S., Han, W., Park, H., and Lee, J.
-#        conference: In Proc. 32nd Int'l Conf. on Data Engineering (ICDE 2016), pp. 1504- 1505, Helsinki, Filand, 2016 (invited to TKDE track of ICDE 2016)
+      - title: DSP-CC: I/ O Efficient Parallel Computation of Connected Components in Billion- scale Networks (Extended Abstract)
+        authors: Kim, M., Lee, S., Han, W., Park, H., and Lee, J.
+        conference: In Proc. 32nd Int'l Conf. on Data Engineering (ICDE 2016), pp. 1504- 1505, Helsinki, Filand, 2016 (invited to TKDE track of ICDE 2016)
 
-#      - title: TurboISO: Towards UltraFast and Robust Subgraph Isomorphism Search in Large Graph Databases
-#       link: "#"
-#        authors: Han, W., Lee, J., and Lee, J.
-#        conference: In Proc. 39th International Management of Data, ACM SIGMOD, pp. 337- 348, New York, USA, June 2013
+      - title: TurboISO: Towards UltraFast and Robust Subgraph Isomorphism Search in Large Graph Databases
+        authors: Han, W., Lee, J., and Lee, J.
+        conference: In Proc. 39th International Management of Data, ACM SIGMOD, pp. 337- 348, New York, USA, June 2013
 
-#      - title: TurboGraph: A Fast Parallel Graph Engine Handling Billion- scale Graphs in a Single PC
-#       link: "#"
-#        authors: Han, W., Lee, S., Park, K., Lee, J., Kim, M., Kim, J., and Yu, H.
-#        conference: In Proc. of the 19th ACM SIGKDD Int'l Conf. on Knowledge, Discovery, and Data Mining, KDD'12, pp. 77- 85, Chicago, USA, August 11- 14, 2013
+      - title: TurboGraph: A Fast Parallel Graph Engine Handling Billion- scale Graphs in a Single PC
+        authors: Han, W., Lee, S., Park, K., Lee, J., Kim, M., Kim, J., and Yu, H.
+        conference: In Proc. of the 19th ACM SIGKDD Int'l Conf. on Knowledge, Discovery, and Data Mining, KDD'12, pp. 77- 85, Chicago, USA, August 11- 14, 2013
 
-#      - title: An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases
-#       link: "#"
-#        authors: Han, W., Lee, J., Kasperovics, R., and Lee, J.
-#        conference: In Proc. 39th In Int’l Conf. on Very Large Data Bases/ Proceedings of the VLDB Endowment(PVLDB), Vol. 6, No. 2, pp. 133- 144, Dec. 2012 
+      - title: An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases
+        authors: Han, W., Lee, J., Kasperovics, R., and Lee, J.
+        conference: In Proc. 39th In Int’l Conf. on Very Large Data Bases/ Proceedings of the VLDB Endowment(PVLDB), Vol. 6, No. 2, pp. 133- 144, Dec. 2012 
         
 # skills:
 #     title: Skills &amp; Proficiency
