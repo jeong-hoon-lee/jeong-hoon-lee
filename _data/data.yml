@@ -5,7 +5,7 @@
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-    publications: True # set to False if you want education in main section instead of in sidebar
+#    publications: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jeong-hoon Lee
@@ -51,6 +51,8 @@ career-profile:
       I received Ph.D. degree in Computer Science from Korea Advanced Institute of Science and Technology (KAIST), Korea, in 2010. 
       I am interested in object-relational databases, graph databases, sensor networks, information retrieval, web/web protocols, and peer-to-peer systems.
       I am doing research under the supervision of Professor Wook-Shin Han.
+
+      
       
 education:
     - degree: Ph.D in Computer Science
@@ -151,20 +153,20 @@ publications:
 #      bibendum fringilla a eu lectus.
 
 #    International Journals:
-      - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
+#      - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
 #       link: "#"
-        authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
-        conference: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
+#        authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
+#        conference: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
 
-      - title: Inferring Drug Protein-Side Effect Relationships from Biomedical Text
+#      - title: Inferring Drug Protein-Side Effect Relationships from Biomedical Text
 #       link: "#"
-        authors: Song, M., Baek, S., Heo, G., and Lee, J.  
-        conference: Genes, 10, 159, 2019 (SCIE)
+#        authors: Song, M., Baek, S., Heo, G., and Lee, J.  
+#        conference: Genes, 10, 159, 2019 (SCIE)
         
-      - title: Analyzing the Field of Bioinformatics with the Multi- faceted Topic Modeling Technique
+#      - title: Analyzing the Field of Bioinformatics with the Multi- faceted Topic Modeling Technique
 #       link: "#"
-        authors: Heo, G., Kang, Y., Song, M., and Lee, J. 
-        conference: BMC Bioinformatics, 18(Suppl. 7):251, pp. 45- 57, June 2017 (SCIE)
+#        authors: Heo, G., Kang, Y., Song, M., and Lee, J. 
+#        conference: BMC Bioinformatics, 18(Suppl. 7):251, pp. 45- 57, June 2017 (SCIE)
         
 #      - title: DSP-CC: IO Efficient Parallel Computation of Connected Components in Billion-scale Networks
 #       link: "#"
