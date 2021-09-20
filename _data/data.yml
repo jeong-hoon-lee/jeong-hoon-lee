@@ -145,25 +145,24 @@ professional experiences:
 
 publications:
     title: Publications
-    items:
-      - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
-        authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
-        conference: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
-
-      - title: Inferring Drug Protein-Side Effect Relationships from Biomedical Text
-        authors: Song, M., Baek, S., Heo, G., and Lee, J.  
-        conference: Genes, 10, 159, 2019 (SCIE)
-
-#    intro: |
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-
-#    International Journals:
+#    items:
 #      - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
 #        authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
 #        conference: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
+
+#      - title: Inferring Drug Protein-Side Effect Relationships from Biomedical Text
+#        authors: Song, M., Baek, S., Heo, G., and Lee, J.  
+#        conference: Genes, 10, 159, 2019 (SCIE)
+
+    intro: 
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+
+      - title: Combining Entity Co-occurrence with Specialized Word Embeddings to Measure Entity Relation in Alzheimer’s Disease
+        authors: Heo, G., Xie, Q., Min, S., and Lee, J. 
+        conference: BMC Medical Information and Decision Making, 19, 40, 2019 (SCIE)
 
 #      - title: Inferring Drug Protein-Side Effect Relationships from Biomedical Text
 #       link: "#"
@@ -230,8 +229,6 @@ publications:
 #        authors: Lee, J., Kasperovics, R., Han, W., Lee., J., Kim, M., and Cho, H.
 #        conference: International Journal of Data Mining and Bioinformatics, ISSN: 1748- 5673, Vol. 11, No. 2, pp. 205- 222, 2015 (SCIE)
 
-#    title: International Conference Proceedings:
-    
 #      - title: TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data
 #       link: "#"
 #        authors: Kim, K., Seo, I., Han, W., Lee, J., Hong, S., Chafi, H., Shin, H., and Jeong, G.
