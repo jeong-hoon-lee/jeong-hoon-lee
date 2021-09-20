@@ -154,7 +154,7 @@ publications:
 #        authors: Song, M., Baek, S., Heo, G., and Lee, J.  
 #        conference: Genes, 10, 159, 2019 (SCIE)
 
-    intro: |
+    intro: 
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
