@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+#    education: True # set to False if you want education in main section instead of in sidebar
 #    publications: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -54,10 +54,10 @@ career-profile:
       
      
       
-education:
-    - degree: Ph.D in Computer Science
-      university: Korea Advanced Institute of Science and Technology (KAIST)
-      time: 2003 - 2010
+#education:
+#    - degree: Ph.D in Computer Science
+#      university: Korea Advanced Institute of Science and Technology (KAIST)
+#      time: 2003 - 2010
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
 #         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +66,9 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-    - degree: M.S in Computer Science and Engineering
-      university: Kyungpook Natioanl University 
-      time: 1995 - 1997
+#    - degree: M.S in Computer Science and Engineering
+#      university: Kyungpook Natioanl University 
+#      time: 1995 - 1997
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
 #         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +77,9 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-    - degree: B.S in Computer Science and Engineering
-      university: Kyungpook Natioanl University 
-      time: 1990 - 1995
+#    - degree: B.S in Computer Science and Engineering
+#      university: Kyungpook Natioanl University 
+#      time: 1990 - 1995
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
 #         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
